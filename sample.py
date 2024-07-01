@@ -1,4 +1,4 @@
-# My first python code
+# My first python code learning
 q=2
 s=3
 d=9
